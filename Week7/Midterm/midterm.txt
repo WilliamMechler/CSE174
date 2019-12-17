@@ -1,0 +1,606 @@
+FirstName
+Lastname
+Age
+currentIncome
+Current Savings
+Raise
+ROSEMARY
+SAMANIEGO
+     40
+     81539.00
+     44293.87
+     0.0527
+JAMES
+BURGESS
+     53
+     99723.98
+     142447.56
+     0.0254
+MARIBELL
+GARZA
+     45
+     31457.83
+     92251.22
+     0.0345
+JOE
+SANTACRUZ
+     65
+     60804.36
+     189793.04
+     0.0185
+ROY
+TORRES
+     55
+     65094.66
+     182231.52
+     0.0370
+GILBERTO
+CEPEDA
+     47
+     16367.74
+     31797.84
+     0.0235
+ARNOLDO
+DAVILA
+     52
+     81765.58
+     327203.15
+     0.0511
+JASON
+TYRONE
+     41
+     42201.32
+     61579.90
+     0.0581
+OLGA
+PALOMINO
+     50
+     59733.42
+     169478.53
+     0.0361
+ARTHUR
+HINOJOSA
+     47
+     96489.35
+     19005.70
+     0.0236
+CHRISTINA
+AMARO
+     44
+     82682.17
+     138864.19
+     0.0586
+MAGDALENA
+FABELA
+     66
+     79448.07
+     252674.55
+     0.0409
+JIMMIE
+WASHINGTON
+     60
+     9103.01
+     122577.09
+     0.0290
+NINA
+CAMPBELL
+     56
+     73851.19
+     99054.78
+     0.0280
+BETTY
+JACKSON
+     67
+     65965.91
+     5681.73
+     0.0430
+MIGUEL
+GARCIA
+     42
+     13634.14
+     20508.04
+     0.0208
+PERLITA
+GARCIA
+     45
+     90530.73
+     246023.69
+     0.0249
+RAY
+SIFUENTES
+     43
+     78809.58
+     308539.35
+     0.0154
+BEVERLY
+FUTCH
+     67
+     70183.48
+     43087.64
+     0.0430
+CHARLES
+EARLY
+     57
+     54242.13
+     6899.08
+     0.0284
+LONNIE
+ANDREWS
+     62
+     73047.36
+     79674.58
+     0.0149
+KATIE
+FLANDERMEYER
+     49
+     54821.21
+     86632.73
+     0.0535
+DANIEL
+THEDENS
+     60
+     9112.31
+     396825.91
+     0.0157
+BILL
+MATHEWS
+     61
+     80770.88
+     213057.51
+     0.0391
+MARIA
+BALDERAS
+     56
+     85827.38
+     44616.16
+     0.0186
+SARAH
+WALTON
+     52
+     37185.99
+     102624.18
+     0.0582
+SHERRY
+RISHEG
+     45
+     2803.94
+     17235.64
+     0.0582
+KENNETH
+SEAMAN
+     64
+     41047.65
+     22244.74
+     0.0364
+RAFAELA
+CRUZ
+     68
+     51501.10
+     192145.93
+     0.0593
+TERESA
+LISERIO
+     56
+     77552.63
+     1231.44
+     0.0319
+BILLY
+BRAZIL
+     61
+     18787.13
+     144172.44
+     0.0363
+JIMMY
+JONES
+     43
+     22926.15
+     15751.40
+     0.0422
+MARTIN
+AMOS
+     60
+     5501.33
+     88430.48
+     0.0388
+GEORGE
+TORRES
+     58
+     33638.26
+     283789.45
+     0.0234
+RODRICK
+SATROPLUS
+     41
+     63220.05
+     282554.48
+     0.0275
+REGINALD
+WILDER
+     52
+     5224.12
+     73200.22
+     0.0141
+TIMOTHY
+CHOICE
+     54
+     26080.88
+     10260.51
+     0.0157
+MICHAEL
+STRELCZYK
+     65
+     26583.79
+     69798.74
+     0.0336
+JAVIER
+AGUILAR
+     54
+     91186.17
+     34426.63
+     0.0340
+CARLTON
+WILLIAMS
+     59
+     17567.29
+     2667.43
+     0.0202
+ESTEFANITA
+MENDOZA
+     65
+     98229.93
+     62997.51
+     0.0314
+BOBBY
+CONNELL
+     43
+     79368.49
+     291769.97
+     0.0349
+JOE
+SALAZAR
+     45
+     83398.27
+     204434.11
+     0.0283
+ALEX
+GARCIA
+     49
+     90181.42
+     660.28
+     0.0111
+CYNTHIA
+ALBERT
+     48
+     10196.13
+     196621.83
+     0.0168
+JIMMIE
+SNEED
+     56
+     891.76
+     48940.52
+     0.0526
+BRANDY
+WILSON
+     45
+     80737.78
+     194356.47
+     0.0558
+PATRICIA
+LOWE
+     60
+     2186.64
+     130487.87
+     0.0377
+VINSON
+MASSEY
+     49
+     60473.08
+     108106.36
+     0.0433
+SALVADOR
+CASTILLON
+     68
+     19582.10
+     133978.29
+     0.0326
+JOSE
+TOVAR
+     59
+     52968.06
+     475737.41
+     0.0152
+DOYLE
+BLACK
+     50
+     87381.39
+     82858.86
+     0.0188
+MICHAEL
+DROMGOOLE
+     64
+     60090.02
+     107339.34
+     0.0100
+JOE
+BALDERAS
+     55
+     59811.07
+     451649.76
+     0.0547
+DEREK
+WILLIAMS
+     57
+     76408.21
+     167314.69
+     0.0268
+VIRGINIA
+GARCIA
+     51
+     99053.52
+     354529.83
+     0.0560
+CANDIDA
+VAZQUEZ
+     47
+     35219.31
+     438220.43
+     0.0326
+RICKY
+DRAPER
+     59
+     73337.73
+     274928.06
+     0.0194
+RICARDO
+RODRIGUEZ
+     52
+     98339.22
+     91115.26
+     0.0133
+ALMA
+RAMIREZ
+     59
+     54653.89
+     252530.15
+     0.0238
+MARTIN
+MENDOZA
+     37
+     48250.80
+     112451.04
+     0.0236
+PAMELA
+PARKER
+     58
+     18186.84
+     39288.57
+     0.0204
+SAMUEL
+FEEMSTER
+     40
+     36583.76
+     68183.17
+     0.0293
+ROEL
+GUZMAN JR.
+     55
+     60392.50
+     83374.20
+     0.0419
+MELISSA
+PALOMO
+     48
+     58174.19
+     69372.24
+     0.0491
+JULISSA
+RIVERA
+     48
+     48634.30
+     30822.37
+     0.0233
+PATRICK
+JENKINS
+     46
+     78461.46
+     91416.27
+     0.0244
+SCOTT
+TAYLOR
+     40
+     53136.20
+     89501.40
+     0.0137
+GABRIEL
+PEREZ
+     56
+     9753.52
+     128117.28
+     0.0182
+ROSA
+PALOMINO
+     44
+     87270.40
+     259509.38
+     0.0366
+JOE
+RUIZ
+     62
+     82843.90
+     27686.77
+     0.0595
+MARIA
+LAQUE
+     55
+     63451.72
+     4429.93
+     0.0434
+MARCUS
+LOWRY
+     46
+     20575.13
+     325.17
+     0.0107
+RICKY
+ALLEN
+     60
+     87792.32
+     102181.62
+     0.0575
+MICHELLE
+GUERRERO
+     50
+     50009.31
+     214346.01
+     0.0333
+DALIA
+FLORES
+     58
+     31616.02
+     85865.83
+     0.0212
+LISA
+SANDERS
+     60
+     25794.60
+     94744.77
+     0.0443
+ARTURO
+ZAZUETA
+     52
+     52120.77
+     1654.99
+     0.0351
+CHRISTOPHER
+MARTIN
+     57
+     50648.45
+     177476.63
+     0.0542
+ENRIQUE
+MARTINEZ
+     41
+     35378.66
+     19614.03
+     0.0502
+JOSEPH
+SALDIVAR
+     57
+     78466.56
+     183675.23
+     0.0555
+RAUL
+DOPORTO
+     50
+     3007.78
+     3276.18
+     0.0507
+CECIL
+LINDLEY
+     66
+     2529.57
+     115541.18
+     0.0409
+MARCO
+HERNANDEZ
+     57
+     9580.80
+     249349.94
+     0.0166
+RAQUEL
+KINCH
+     50
+     27721.73
+     5999.84
+     0.0182
+MARIO
+RENTERIA
+     43
+     79510.45
+     154070.86
+     0.0303
+JASON
+HAMMERSLEY
+     44
+     101269.12
+     244019.33
+     0.0147
+FEDERICO
+OLIVA
+     57
+     23736.51
+     343092.18
+     0.0160
+JUANA
+TORRES
+     54
+     32127.50
+     32998.75
+     0.0400
+RAUL
+GARCIA
+     65
+     20191.13
+     35611.36
+     0.0224
+ELLEN
+ROBERSON
+     53
+     14224.55
+     198577.46
+     0.0173
+JAMES
+HERNANDEZ
+     61
+     50755.53
+     23063.49
+     0.0491
+JOE
+MEEK
+     41
+     54584.78
+     15729.49
+     0.0317
+MARISSA
+VASQUEZ
+     45
+     89946.51
+     11132.51
+     0.0196
+DEBORAH
+GUTIERREZ
+     64
+     55389.08
+     21341.03
+     0.0429
+SAMUEL
+THOMPSON
+     68
+     68761.94
+     397412.91
+     0.0117
+SHERRY
+ROGERS
+     56
+     95644.56
+     99230.04
+     0.0433
+JOHN KEVIN
+PACE
+     63
+     40719.45
+     388024.91
+     0.0525
+FELIPE
+MALDONADO
+     57
+     97523.56
+     32483.72
+     0.0451
+PETE
+FABILA
+     66
+     67816.23
+     41153.13
+     0.0470
