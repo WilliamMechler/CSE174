@@ -1,0 +1,24 @@
+/**
+ * Auto Generated Java Class.
+ */
+
+import java.util.Scanner; // Scanner needed for user input
+
+public class GrossPay {
+  
+  
+  public static void main(String[] args) { 
+    double hours;
+    double wage;
+    
+    
+    Calc(hours, wage);
+  }
+  
+  public static void Calc(double hours, double wage){
+    
+  }
+  
+  /* ADD YOUR CODE HERE */
+  
+}

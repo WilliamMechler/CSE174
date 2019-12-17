@@ -1,0 +1,39 @@
+//Name: William Mechler
+//Instructor: Dave Woods
+//CSE 174
+//Date:9/5/2019
+//Filename: MyFirstProgran.java
+//Description: Practice with writing, saving, and compiling code
+
+import java.util.Scanner; // Scanner needed for user input
+
+//Demonstrates some basic programming concepts by
+//getting infomation form the keyboard, displaying results
+//to the screen, and playing an interactive game with
+//the user.
+public class MyFirstProgram{
+ 
+  //The starting point for thr program. This method
+  //calls on the other three methods as needed.
+  public static void main(String[] args){
+    
+  }// end of main method
+  
+  //prints a personalized welcome message to the screen.
+  public static void printWelcome(String name){
+    
+  }// end of printWelcome method
+  
+  //prints a personalized introduction of the game
+  //to the screen
+  public static void printGameIntro(String name){
+    
+  }// end of printGameIntro method
+  
+  //prints to the screen a border of any length,
+  //using the specified symbol
+  public static void drawBorder(int length, char symbol){
+    
+  }// end of drawBorder method
+  
+}//end class
